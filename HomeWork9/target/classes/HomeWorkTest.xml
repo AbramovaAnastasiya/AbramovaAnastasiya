@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Тесты">
+    <test name="HomeWork9Test1-3">
+        <classes>
+            <class name="Classes.Class1"></class>
+            <class name="Classes.Class2"></class>
+            <class name="Classes.Class3"></class>
+        </classes>
+    </test>
+
+    <test name="HomeWork9Test4">
+        <classes>
+            <class name="Classes.Class4"></class>
+        </classes>
+    </test>
+</suite>
